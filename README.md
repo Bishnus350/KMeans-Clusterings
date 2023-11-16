@@ -5,5 +5,5 @@ for clustering IRIS datasets. I would like the potential reader that, try to fin
 - Some terms like MixmaxScaler, and DBSCAN may be new for some learners. Again instruction is to go to Google and read them once. 
 - I typed my script in VScode and the file is in extension'.py'. For the user in 'Jupyter Notebook' make the extension '.ipynb'
   # NOTE
-  - I used Windows 11 if you are using Linux, Mac, or any other OS or kernels. Make sure you give the correct path to the file.
+  - I used Windows 11, if you are using Linux, Mac, or any other OS or kernels. Make sure you give the correct path to the file and manage modules accordingly.
   - Make sure you import all the modules and install all the modules that you need. 
