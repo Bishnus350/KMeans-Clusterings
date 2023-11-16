@@ -1,0 +1,4 @@
+#There is no such requirements for the softwares. 
+# You can use Python and install some ML algorithm like Sklearn 
+# Proper computer is recommended
+# Try to find extra material from the internet or from textbook. 
